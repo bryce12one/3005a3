@@ -30,3 +30,4 @@ Running the Application
 - Copy code
     python3 3005a3q1.py
 - The script will perform a series of database operations and print the results to the console.
+- Can comment and uncomment code as well as alter values as you see fit.
